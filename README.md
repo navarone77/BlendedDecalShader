@@ -1,4 +1,4 @@
-# BlendedShader
+# BlendedDecal
 
 Since http://wiki.unity3d.com is down, someone might be looking for this script.
 
